@@ -1,0 +1,15 @@
+# Changelog
+
+## [1.1.0] - 2026-03-14
+### Added
+- **Pova 7 Series:** Full support for Pova 7 and Pova 7 Pro.
+- **IMEI Write Module:** New protocol for writing IMEI on Transsion 2026 models.
+
+### Fixed
+- **Anti-Crack Bypass:** Fixed the "Anti-Crack Error" that occurred during IMEI writing operations.
+- **Handshake Stability:** Improved connection stability with the Carlcare OTP server.
+- **Checksum Logic:** Updated IMEI validation to ensure 100% success rate on P-series devices.
+
+### Changed
+- Refined the user interface for faster device identification.
+- Updated security definitions for Camon 50 series.
